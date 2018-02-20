@@ -1,13 +1,25 @@
-{
+{   
     "name": "phyo/test-pack",
-    "description": "yest",
     "type": "library",
+    "email" : "nyilinaung97@gmail.com",
+    "description": "Unifi Sdk for laravel",
+    "keywords": [
+        "phyo",
+        "Unifi"
+    ],
+    "homepage": "https://github.com/phyowailinn/test-pack",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Phyo Wai Linn",
+            "email": "nyilinaung97@gmail.com",
+            "homepage": "https://phyowailinn.github.io",
+            "role": "Developer"
+        }
+    ],
     "require": {
         "guzzlehttp/guzzle": "^6.3"
     },
-    "license": "MIT",
-    "homepage": "https://github.com/phyowailinn/test-pack",
-    "minimum-stability": "dev",
     "autoload": {
         "psr-0": {
             "Phyo\\TestPack": "src/"
