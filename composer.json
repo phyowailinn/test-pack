@@ -1,10 +1,10 @@
 {   
-    "name": "phyo/test-pack",
+    "name": "phyowailinn/test-pack",
     "type": "library",
     "email" : "nyilinaung97@gmail.com",
     "description": "Unifi Sdk for laravel",
     "keywords": [
-        "phyo",
+        "phyowailinn",
         "Unifi"
     ],
     "homepage": "https://github.com/phyowailinn/test-pack",
