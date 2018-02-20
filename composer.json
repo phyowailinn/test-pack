@@ -29,5 +29,5 @@
             "src/functions.php"
         ]
     },
-    "minimum-stability": "dev-master"
+    "minimum-stability": "dev"
 }
