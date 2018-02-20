@@ -1,5 +1,5 @@
 {
-    "name": "vendor/test",
+    "name": "phyo/test-pack",
     "description": "yest",
     "type": "library",
     "require": {
