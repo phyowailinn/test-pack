@@ -1,5 +1,6 @@
 {   
     "name": "phyowailinn/test-pack",
+    "minimum-stability": "dev",
     "type": "library",
     "email" : "nyilinaung97@gmail.com",
     "description": "Unifi Sdk for laravel",
@@ -28,6 +29,5 @@
         "files": [
             "src/functions.php"
         ]
-    },
-    "minimum-stability": "dev"
+    }
 }
