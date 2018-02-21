@@ -23,7 +23,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Phyo\\TestPack": "src/"
+            "phyowailinn\\TestPack\\": "src"
         },
         "files": [
             "src/functions.php"
